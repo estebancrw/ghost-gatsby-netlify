@@ -1,0 +1,19 @@
+{
+  "author": "Esteban Castano",
+  "dependencies": {
+    "gatsby": "^2.18.17",
+    "react": "^16.12.0",
+    "react-dom": "^16.12.0"
+  },
+  "description": "Learning Gatsby through practical work",
+  "license": "MIT",
+  "name": "try-gatsby",
+  "private": false,
+  "repository": "git@github.com:estebancrw/try-gatsby.git",
+  "scripts": {
+    "build": "gatsby build",
+    "clean": "gatsby clean",
+    "develop": "gatsby develop"
+  },
+  "version": "0.0.0"
+}
