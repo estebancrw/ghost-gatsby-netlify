@@ -18,5 +18,8 @@
     "clean": "gatsby clean",
     "develop": "gatsby develop"
   },
-  "version": "0.0.0"
+  "version": "0.0.0",
+  "devDependencies": {
+    "prettier": "^1.19.1"
+  }
 }
